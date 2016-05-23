@@ -9,5 +9,6 @@
   "author": "Pierre-Gilles Leymarie",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
+    "pushbullet": "^1.4.3"
   }
 }
