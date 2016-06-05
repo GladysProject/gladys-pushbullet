@@ -1,6 +1,6 @@
 {
   "name": "gladys-pushbullet",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Gladys hooks to send pushbullet notifications",
   "main": "index.js",
   "scripts": {
